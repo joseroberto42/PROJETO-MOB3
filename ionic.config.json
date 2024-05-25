@@ -1,0 +1,7 @@
+{
+  "name": "pokemomapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
